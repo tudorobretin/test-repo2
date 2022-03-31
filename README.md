@@ -1,7 +1,7 @@
-# Test 2 branch: feature2
+# Test 2 deleted info from merged branches
 
 Some text
 
 # Subheader
 
-Some more text for my new feature branch
+Some more text for my new feature branch. No branches at the moment
